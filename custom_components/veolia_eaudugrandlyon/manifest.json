@@ -1,6 +1,6 @@
 {
   "domain": "veolia_eaudugrandlyon",
-  "name": "Veolia Eau Du Grand Lyon",
+  "name": "Veolia - Eau du Grand Lyon",
   "iot_class": "cloud_polling",
   "version": "0.4.0",
   "documentation": "https://github.com/b0l0k/veolia-custom-component-lyon",

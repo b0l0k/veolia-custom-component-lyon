@@ -1,4 +1,4 @@
-# Veolia
+# Veolia - Eau du Grand Lyon
 
 [![GitHub Release][releases-shield]][releases]
 [![GitHub Activity][commits-shield]][commits]
