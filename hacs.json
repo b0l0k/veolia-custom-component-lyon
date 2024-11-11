@@ -1,5 +1,5 @@
 {
-  "name": "Veolia",
+  "name": "Veolia Eau Du Grand Lyon",
   "hacs": "0.24.0",
   "domains": ["sensor"],
   "iot_class": "Cloud Polling",
