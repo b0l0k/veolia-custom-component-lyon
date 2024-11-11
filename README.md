@@ -48,7 +48,7 @@ Code template was mainly taken from [@Ludeeus](https://github.com/ludeeus)'s [bl
 [hacsbadge]: https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge
 [logoimg]: logo.png
 [license-shield]: https://img.shields.io/github/license/b0l0k/veolia-custom-component-luon.svg?style=for-the-badge
-[maintenance-shield]: https://img.shields.io/badge/maintainer-%40tetienne-blue.svg?style=for-the-badge
+[maintenance-shield]: https://img.shields.io/badge/maintainer-%40b0l0k-blue.svg?style=for-the-badge
 [releases-shield]: https://img.shields.io/github/release/b0l0k/veolia-custom-component-luon.svg?style=for-the-badge
 [releases]: https://github.com/b0l0k/veolia-custom-component-luon/releases
 [user_profile]: https://github.com/b0l0k
