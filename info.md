@@ -32,16 +32,16 @@ Code template was mainly taken from [@Ludeeus](https://github.com/ludeeus)'s [bl
 
 ---
 
-[commits-shield]: https://img.shields.io/github/commit-activity/y/b0l0k/veolia-custom-component-luon.svg?style=for-the-badge
-[commits]: https://github.com/b0l0k/veolia-custom-component-luon/commits/main
+[commits-shield]: https://img.shields.io/github/commit-activity/y/b0l0k/veolia-custom-component-lyon.svg?style=for-the-badge
+[commits]: https://github.com/b0l0k/veolia-custom-component-lyon/commits/main
 [hacs]: https://hacs.xyz
 [hacsbadge]: https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge
 [logoimg]: logo.png
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg?style=for-the-badge
 [forum]: https://community.home-assistant.io/
-[license]: https://github.com/b0l0k/veolia-custom-component-luon/blob/main/LICENSE
-[license-shield]: https://img.shields.io/github/license/b0l0k/veolia-custom-component-luon.svg?style=for-the-badge
+[license]: https://github.com/b0l0k/veolia-custom-component-lyon/blob/main/LICENSE
+[license-shield]: https://img.shields.io/github/license/b0l0k/veolia-custom-component-lyon.svg?style=for-the-badge
 [maintenance-shield]: https://img.shields.io/badge/maintainer-%40b0l0k-blue.svg?style=for-the-badge
-[releases-shield]: https://img.shields.io/github/release/b0l0k/veolia-custom-component-luon.svg?style=for-the-badge
-[releases]: https://github.com/b0l0k/veolia-custom-component-luon/releases
+[releases-shield]: https://img.shields.io/github/release/b0l0k/veolia-custom-component-lyon.svg?style=for-the-badge
+[releases]: https://github.com/b0l0k/veolia-custom-component-lyon/releases
 [user_profile]: https://github.com/b0l0k
