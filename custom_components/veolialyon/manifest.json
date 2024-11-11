@@ -11,6 +11,6 @@
     "@b0l0k"
   ],
   "requirements": [
-    "pyolialyon @ git+https://github.com/b0l0k/python-veolia-api-lyon@0.5.0"
+    "pyolia @ git+https://github.com/b0l0k/python-veolia-api-lyon@0.5.0"
   ]
 }
