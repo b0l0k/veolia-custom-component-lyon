@@ -2,7 +2,7 @@
 Custom integration to integrate Veolia with Home Assistant.
 
 For more details about this integration, please refer to
-https://github.com/tetienne/veolia-custom-component
+https://github.com/b0l0k/veolia-custom-component-luon
 """
 import asyncio
 from datetime import datetime, timedelta

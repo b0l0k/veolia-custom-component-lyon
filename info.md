@@ -32,16 +32,16 @@ Code template was mainly taken from [@Ludeeus](https://github.com/ludeeus)'s [bl
 
 ---
 
-[commits-shield]: https://img.shields.io/github/commit-activity/y/tetienne/veolia-custom-component.svg?style=for-the-badge
-[commits]: https://github.com/tetienne/veolia-custom-component/commits/main
+[commits-shield]: https://img.shields.io/github/commit-activity/y/b0l0k/veolia-custom-component-luon.svg?style=for-the-badge
+[commits]: https://github.com/b0l0k/veolia-custom-component-luon/commits/main
 [hacs]: https://hacs.xyz
 [hacsbadge]: https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge
 [logoimg]: logo.png
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg?style=for-the-badge
 [forum]: https://community.home-assistant.io/
-[license]: https://github.com/tetienne/veolia-custom-component/blob/main/LICENSE
-[license-shield]: https://img.shields.io/github/license/tetienne/veolia-custom-component.svg?style=for-the-badge
+[license]: https://github.com/b0l0k/veolia-custom-component-luon/blob/main/LICENSE
+[license-shield]: https://img.shields.io/github/license/b0l0k/veolia-custom-component-luon.svg?style=for-the-badge
 [maintenance-shield]: https://img.shields.io/badge/maintainer-%40tetienne-blue.svg?style=for-the-badge
-[releases-shield]: https://img.shields.io/github/release/tetienne/veolia-custom-component.svg?style=for-the-badge
-[releases]: https://github.com/tetienne/veolia-custom-component/releases
-[user_profile]: https://github.com/tetienne
+[releases-shield]: https://img.shields.io/github/release/b0l0k/veolia-custom-component-luon.svg?style=for-the-badge
+[releases]: https://github.com/b0l0k/veolia-custom-component-luon/releases
+[user_profile]: https://github.com/b0l0k
