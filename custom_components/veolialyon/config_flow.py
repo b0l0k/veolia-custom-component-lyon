@@ -1,6 +1,6 @@
 """Adds config flow for Veolia."""
 from homeassistant import config_entries
-from pyolia.client import BadCredentialsException, VeoliaClient
+from pyolialyon.client import BadCredentialsException, VeoliaClient
 import voluptuous as vol
 
 from .const import CONF_PASSWORD, CONF_USERNAME, DOMAIN
