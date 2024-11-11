@@ -5,9 +5,9 @@
   ],
   "_template": "gh:oncleben31/cookiecutter-homeassistant-custom-component",
   "class_name_prefix": "Veolia",
-  "domain_name": "veolia",
-  "friendly_name": "Veolia",
+  "domain_name": "veolialyon",
+  "friendly_name": "Veolia - Eau du grand Lyon",
   "github_user": "tetienne",
-  "project_name": "veolia",
+  "project_name": "veolialyon",
   "version": "0.0.0"
 }

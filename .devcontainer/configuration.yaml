@@ -3,6 +3,6 @@ default_config:
 logger:
   default: info
   logs:
-    custom_components.veolia: debug
+    custom_components.veolialyon: debug
 #debugpy:
 #  wait: true

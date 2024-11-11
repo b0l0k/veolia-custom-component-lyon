@@ -3,7 +3,7 @@
 from homeassistant.components.sensor import DOMAIN as SENSOR
 
 NAME = "Veolia"
-DOMAIN = "veolia"
+DOMAIN = "veolialyon"
 PLATFORMS = [SENSOR]
 CONF_USERNAME = "username"
 CONF_PASSWORD = "password"

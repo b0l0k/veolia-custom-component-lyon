@@ -1,9 +1,9 @@
 {
-  "title": "Veolia",
+  "title": "Veolia - Eau du grand Lyon",
   "config": {
     "step": {
       "user": {
-        "description": "Please use your https://www.eau-services.com credentials.",
+        "description": "Please use your https://www.eaudugrandlyon.com credentials.",
         "data": {
           "username": "Username",
           "password": "Password"

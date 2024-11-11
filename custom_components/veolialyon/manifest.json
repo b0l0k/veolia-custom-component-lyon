@@ -1,5 +1,5 @@
 {
-  "domain": "veolia_eaudugrandlyon",
+  "domain": "veolialyon",
   "name": "Veolia - Eau du Grand Lyon",
   "iot_class": "cloud_polling",
   "version": "0.4.0",
@@ -7,6 +7,10 @@
   "dependencies": [],
   "config_flow": true,
   "issue_tracker": "https://github.com/b0l0k/veolia-custom-component-lyon/issues",
-  "codeowners": ["@b0l0k"],
-  "requirements": ["pyolia @ git+https://github.com/b0l0k/python-veolia-api-lyon@0.5.0"]
+  "codeowners": [
+    "@b0l0k"
+  ],
+  "requirements": [
+    "pyolia @ git+https://github.com/b0l0k/python-veolia-api-lyon@0.5.0"
+  ]
 }
